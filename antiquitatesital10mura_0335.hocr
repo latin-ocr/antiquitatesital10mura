@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital10mura_0335.png"; bbox 0 0 2201 3021; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 774 1720 909">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 729 1720 909">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 774 1720 909; baseline -0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 365 774 1720 909; x_wconf 79' lang='lat' dir='ltr'><strong>STATUTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 575 999 1509 1064">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 575 999 1509 1064">
+     <span class='ocr_line' id='line_1_2' title="bbox 575 999 1509 1064; baseline 0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 575 999 1509 1064; x_wconf 90' lang='lat' dir='ltr'><strong>CIVITATIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 344 1370 1742 1428">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 344 1370 1742 1428">
+     <span class='ocr_line' id='line_1_3' title="bbox 344 1370 1742 1428; baseline 0.003 -17"><span class='ocrx_word' id='word_1_3' title='bbox 344 1371 469 1413; x_wconf 73' lang='lat' dir='ltr'>Anno</span> <span class='ocrx_word' id='word_1_4' title='bbox 498 1372 563 1414; x_wconf 84' lang='lat' dir='ltr'>Ch</span> <span class='ocrx_word' id='word_1_5' title='bbox 585 1371 644 1415; x_wconf 83' lang='lat' dir='ltr'>&#39;sti</span> <span class='ocrx_word' id='word_1_6' title='bbox 677 1374 889 1417; x_wconf 84' lang='lat' dir='ltr'>MCXVII</span> <span class='ocrx_word' id='word_1_7' title='bbox 929 1376 969 1417; x_wconf 79' lang='grc' dir='ltr'>δι</span> <span class='ocrx_word' id='word_1_8' title='bbox 1006 1370 1160 1416; x_wconf 82' lang='lat' dir='ltr'>circ‘ter</span> <span class='ocrx_word' id='word_1_9' title='bbox 1188 1375 1311 1417; x_wconf 73' lang='lat' dir='ltr'>Anna</span> <span class='ocrx_word' id='word_1_10' title='bbox 1387 1375 1514 1416; x_wconf 88' lang='lat' dir='ltr'>MCC</span> <span class='ocrx_word' id='word_1_11' title='bbox 1557 1372 1742 1428; x_wconf 67' lang='lat' dir='ltr'>conditag,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 484 1520 1592 1578">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 484 1520 1592 1578">
+     <span class='ocr_line' id='line_1_4' title="bbox 484 1520 1592 1578; baseline -0.001 -3"><span class='ocrx_word' id='word_1_12' title='bbox 484 1520 744 1575; x_wconf 79' lang='lat' dir='ltr'>UNA</span> <span class='ocrx_word' id='word_1_13' title='bbox 829 1523 1084 1578; x_wconf 84' lang='lat' dir='ltr'>CUM</span> <span class='ocrx_word' id='word_1_14' title='bbox 1176 1521 1592 1575; x_wconf 82' lang='lat' dir='ltr'>NOTIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 228 1667 1856 1752">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 228 1667 1856 1775">
+     <span class='ocr_line' id='line_1_5' title="bbox 228 1667 1856 1752; baseline -0.001 0"><span class='ocrx_word' id='word_1_15' title='bbox 228 1667 1856 1752; x_wconf 68' lang='lat' dir='ltr'><strong>CLVHUBERTIBENVOGLIENTI.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

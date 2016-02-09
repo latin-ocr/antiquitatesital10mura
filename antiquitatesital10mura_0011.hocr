@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital10mura_0011.png"; bbox 0 0 2201 3021; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1414 9 1919">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1414 9 1919">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1414 9 1919; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 1414 9 1919; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 399 664 1662 729">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 399 664 1662 729">
+     <span class='ocr_line' id='line_1_2' title="bbox 399 664 1662 729; baseline 0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 399 667 557 727; x_wconf 90' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 660 664 1662 729; x_wconf 87' lang='lat' dir='ltr'><strong>AMPLIFICATA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 220 832 1843 944">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 220 832 1843 944">
+     <span class='ocr_line' id='line_1_3' title="bbox 220 832 1843 944; baseline 0.002 -4"><span class='ocrx_word' id='word_1_4' title='bbox 220 832 1843 944; x_wconf 78' lang='lat' dir='ltr'>CIVITATUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 269 1041 1817 1319">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 269 1041 1817 1319">
+     <span class='ocr_line' id='line_1_4' title="bbox 555 1041 1512 1132; baseline -0.001 0"><span class='ocrx_word' id='word_1_5' title='bbox 555 1041 1512 1132; x_wconf 71' lang='lat' dir='ltr'><strong>ITALICARUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 269 1237 1817 1319; baseline 0.007 -11"><span class='ocrx_word' id='word_1_6' title='bbox 269 1237 1020 1312; x_wconf 75' lang='lat' dir='ltr'>DoMlNATloNE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1062 1241 1200 1312; x_wconf 75' lang='lat' dir='ltr'><strong>Ac:</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1243 1241 1817 1319; x_wconf 66' lang='lat' dir='ltr'><strong>POTENT1A‚·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 221 1461 1844 1565">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 221 1461 1844 1565">
+     <span class='ocr_line' id='line_1_6' title="bbox 221 1461 1844 1565; baseline 0.008 -13"><span class='ocrx_word' id='word_1_9' title='bbox 221 1461 1844 1565; x_wconf 84' lang='lat' dir='ltr'><strong>DISSERTATIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 483 1665 1589 1732">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 483 1665 1589 1732">
+     <span class='ocr_line' id='line_1_7' title="bbox 483 1665 1589 1732; baseline -0.004 -10"><span class='ocrx_word' id='word_1_10' title='bbox 483 1665 1589 1732; x_wconf 71' lang='lat' dir='ltr'>QUADRAGESIMASEPTIMA.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
